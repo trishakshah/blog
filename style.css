@@ -1,0 +1,54 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_maindiv {
+    border: 1px solid #30D5C8;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_maindiv img {
+    width: 100%;
+}
+
+.travel_maindiv h5 {
+    margin-left: 20px;
+}
+
+.travel_maindiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.news_li {
+    margin-top: 13px;
+}
+
+.news_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
